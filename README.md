@@ -1,4 +1,4 @@
-# When Spectral Attention Graphs Fail
+# When Spectral Attention Graphs Fail (NeurIPS InterpScience 2026)
 
 Code for **"When Spectral Attention Graphs Fail: A Confound-Aware Study of Reasoning in LLM Attention Graphs."**
 
